@@ -1,2 +1,2 @@
-# PPS-ASSIGNMENT
-1st year PROJECTS
+# C PROGRAMMING 
+PPS Assignment
