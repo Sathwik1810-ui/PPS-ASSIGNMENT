@@ -1,4 +1,4 @@
-# C Programming assignment 
+# C Programming assignment and PROJECT
 Course: Programming for Problem Solving (PPS).
 Branch: ECE - 1st Year.
 Academic Year: 2026-27.
