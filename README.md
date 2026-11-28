@@ -1,53 +1,61 @@
-# C Programming assignment and PROJECT
+C Programming – Individual Assignment & Projects
 Course: Programming for Problem Solving (PPS).
 Branch: ECE - 1st Year.
 Roll no: 26261A0447.
 Academic Year: 2026-27.
 
-About:
-This repository contains C programs written as part of my PPS additional assignment and project
 
-Programs:
-Spell Checker Using Edit Distance
+📌 About the Repository
 
-📌 Project Overview
+This repository contains my individual C programming assignment, consisting of five problem statements based on a Library Lending System, along with an additional programming project.
 
-The Spell Checker Using Edit Distance is a C programming project designed to identify spelling errors in words and suggest the closest correct alternatives.
+The assignment focuses on applying fundamental and intermediate C programming concepts to practical problem-solving scenarios. The additional project, Spell Checker Using Edit Distance, demonstrates the application of string-processing algorithms.
 
-The project uses the Levenshtein Distance Algorithm to calculate the minimum number of operations required to transform one word into another. These operations include insertion, deletion, and substitution of characters.
+📚 Individual Assignment
 
-By comparing the input word with words stored in a predefined dictionary, the program identifies the most similar word and provides a suitable correction.
+The assignment consists of the following five problem statements:
 
-🎯 Objectives
+1. Prime-Numbered Shelf Slot Allocation
 
-- Understand and implement the Edit Distance algorithm.
-- Identify spelling mistakes in user-input words.
-- Generate suggestions for incorrectly spelled words.
-- Apply string manipulation and algorithmic concepts in C.
-- Improve problem-solving and logical thinking skills.
+- Searching within a bounded range.
+- Prime number identification.
+- Input validation and boundary checking.
+- Prevention of integer overflow.
+- Designing safe and terminating search algorithms.
 
-⚙️ Technologies Used
+2. Library Fine Calculation
 
-- Programming Language: C
-- Concepts: Strings, Functions, Arrays, Loops, Dynamic Programming
-- Algorithm: Levenshtein Distance (Edit Distance)
-- Development Environment: Visual Studio Code
+- Calculation of daily overdue fines.
+- Handling student and holiday-specific rules.
+- Maximum fine limits.
+- Sentinel-controlled input processing.
+- Validation of loan records and dates.
 
-🧠 Algorithm Used
+3. Historical Loan Record Management
 
-The project implements the Levenshtein Distance algorithm.
+- Working with parallel arrays.
+- Searching duplicate book IDs.
+- Traversing two-dimensional arrays.
+- Handling missing and incomplete records.
+- Row-major and column-major traversal.
 
-It calculates the minimum number of operations required to convert one string into another.
+4. Book Title Comparison
 
-The three operations are:
+- String comparison and manipulation.
+- Exact matching versus substring matching.
+- Handling punctuation and spaces.
+- Buffer size and string termination.
+- Understanding prefix-based comparison limitations.
 
-1. Insertion: Adding a character.
-2. Deletion: Removing a character.
-3. Substitution: Replacing one character with another.
+5. Loan Checking and Fine Calculation Functions
 
-The word with the minimum edit distance is considered the closest spelling suggestion.
-
-🚀 How It Works
+- Modular programming using functions.
+- Function prototypes and implementations.
+- Pointer handling and output parameters.
+- Error-code management.
+- Avoiding global variables.
+- Understanding variable scope and lifetime.
+How It Works
 
 1. The user enters a word.
 2. The program compares the entered word with words in a predefined dictionary.
@@ -82,20 +90,64 @@ Through this project, I gained practical experience in:
 - Add file handling to load words from external dictionary files.
 - Extend the program to check complete sentences.
 
+
+
+🚀 Additional C Programming Project
+
+Spell Checker Using Edit Distance
+
+A C programming project designed to identify spelling errors and suggest the closest matching words using the Levenshtein Distance Algorithm.
+
+The algorithm calculates the minimum number of operations required to transform one word into another.
+
+Key Operations:
+
+- Insertion
+- Deletion
+- Substitution
+
+Project Workflow:
+
+1. Accept a word from the user.
+2. Compare it with words stored in a predefined dictionary.
+3. Calculate the edit distance for each comparison.
+4. Identify the closest matching word.
+5. Display the spelling suggestion.
+
+🛠️ Technologies Used
+
+- Programming Language: C
+- IDE: Visual Studio Code
+- Compiler: GCC
+- Version Control: Git and GitHub
+
+🧠 Concepts Covered
+
+- Arrays and Strings
+- Loops and Conditional Statements
+- Functions and Modular Programming
+- Pointers and Memory Management
+- Searching Algorithms
+- Two-Dimensional Arrays
+- Input Validation and Error Handling
+- Dynamic Programming
+- Edit Distance Algorithm
+- Problem-Solving Techniques
+
+🎯 Learning Objectives
+
+- Strengthen logical thinking and problem-solving abilities.
+- Develop a strong foundation in C programming.
+- Understand algorithm design and implementation.
+- Apply programming concepts to practical scenarios.
+- Improve code structure, readability, and reliability.
+- Gain hands-on experience with Git and GitHub.
+
 👨‍💻 Author
 
-Sathwik.
-
-First-Year Electronics and Communication Engineering Student
+Sathwik
+Electronics and Communication Engineering (ECE)
 
 ---
 
-This project was developed as part of learning C programming and applying algorithmic concepts to solve practical problems.
--> PPT
--> PROJECT REPORT
--> Question 1. Prime-numbered shelf slot
--> Question 2. Library fine calculation
--> Question 3. Parallel arrays and matrix traversal
--> Question 4. String comparison
--> Question 5. Functions and pointers
-
+This repository represents my learning journey in C programming through individual assignments and practical projects, focusing on algorithmic thinking and real-world problem-solving.
