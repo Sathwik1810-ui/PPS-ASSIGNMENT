@@ -147,7 +147,8 @@ Project Workflow:
 
 👨‍💻 Author
 
-Sathwik
+Sathwik.
+
 Electronics and Communication Engineering (ECE)
 
 ---
