@@ -1,4 +1,6 @@
-C Programming – Individual Assignment & Projects
+
+C Programming - Individual assignments & Project
+
 Course: Programming for Problem Solving (PPS).
 Branch: ECE - 1st Year.
 Roll no: 26261A0447.
